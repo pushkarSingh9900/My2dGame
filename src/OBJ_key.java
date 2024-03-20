@@ -1,5 +1,4 @@
 import javax.imageio.ImageIO;
-import java.awt.*;
 import java.io.IOException;
 
 public class OBJ_key extends SuperObject {
