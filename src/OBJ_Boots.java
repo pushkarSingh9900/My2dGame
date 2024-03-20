@@ -1,4 +1,5 @@
 import javax.imageio.ImageIO;
+import java.awt.font.GlyphMetrics;
 import java.io.IOException;
 
 public class OBJ_Boots extends SuperObject{
