@@ -5,6 +5,8 @@ Welcome to TreasureHunt, an exciting 2D game developed in JavaFX!
 ## Introduction
 TreasureHunt is a thrilling adventure game where players embark on a quest to discover hidden treasures. Navigate through challenging levels, collect keys to unlock gates, and race against time to uncover the ultimate treasure!
 
+![Start of game](/source-image/image1.png)
+
 ## Features
 - **Engaging Gameplay:** Enjoy hours of entertainment as you explore diverse environments filled with obstacles and secrets.
 - **Intuitive Controls:** Simple controls make it easy for players of all ages to jump right into the action.
