@@ -20,6 +20,8 @@ TreasureHunt is a thrilling adventure game where players embark on a quest to di
 3. **Avoid Obstacles:** Watch out for enemies and obstacles that stand in your way.
 4. **Find Treasure:** Reach the end of each level to discover hidden treasures.
 
+![End of game](/source-image/image3.png)
+
 ## Installation
 1. Clone the repository: `git clone https://github.com/pushkarSingh9900/TreasureHunt.git`
 2. Navigate to the project directory.
